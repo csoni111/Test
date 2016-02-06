@@ -20,7 +20,7 @@
     <View
         android:layout_width="100dp"
         android:layout_height="150dp"
-        android:background="#ff5f1f"
+        android:background="#ff3f1f"
         android:id="@+id/a2"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/a1"/>
