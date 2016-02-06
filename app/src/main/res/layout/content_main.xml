@@ -24,6 +24,7 @@
         android:id="@+id/a2"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/a1"/>
+    <!--test -->
     <View
         android:layout_width="100dp"
         android:layout_height="75dp"
