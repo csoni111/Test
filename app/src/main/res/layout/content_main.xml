@@ -27,7 +27,7 @@
     <View
         android:layout_width="100dp"
         android:layout_height="75dp"
-        android:background="#1fffff"
+        android:background="#1f2f5f"
         android:id="@+id/a3"
         android:layout_toLeftOf="@+id/a2"
         android:layout_alignBottom="@id/a2"/>
